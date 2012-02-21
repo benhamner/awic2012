@@ -2,3 +2,5 @@
 Data/images
 Data/features
 
+# Submission files
+Submissions/*.csv
