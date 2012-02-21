@@ -1,0 +1,5 @@
+Benchmarks for Kaggle's ICFHR 2012 Arabic Writer Identification Challenge.
+
+1nn_benchmark.py creates a sample submission by training a 1-Nearest-Neighbor classifier on the image features.  It requires scikit.learn and the data files to be placed in the Data directory (extracted to a folder named features).
+
+http://www.kaggle.com/c/awic2012
